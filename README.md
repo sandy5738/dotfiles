@@ -15,10 +15,10 @@
 
 ## docs
 - [gpg signing with pinentry-mac](https://gist.github.com/troyfontaine/18c9146295168ee9ca2b30c00bd1b41e?permalink_comment_id=3660126)
+- [omz with zsh-autosuggestions zsh-syntax-highlighting zsh-fast-syntax-highlighting and zsh-autocomplete](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df)
 
 ## fonts
 - [nerd fonts](https://www.nerdfonts.com/font-downloads)
-- [omz with zsh-autosuggestions zsh-syntax-highlighting zsh-fast-syntax-highlighting and zsh-autocomplete](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df)
 
 ## Roadmap
 - automate the setup (ansible/bash)
