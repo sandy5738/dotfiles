@@ -1,13 +1,13 @@
 # dotfiles
 
-## packages to be installed
+## packages
 - [bat](https://github.com/sharkdp/bat?tab=readme-ov-file#on-macos-or-linux-via-homebrew)
 - [fzf](https://github.com/junegunn/fzf?tab=readme-ov-file#using-homebrew)
 - [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
 - [ohmyzsh](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df#install-oh-my-zsh)
 - [starship](https://starship.rs/)
 
-## plugins to be added
+## plugins
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete?tab=readme-ov-file#installation--setup)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)
