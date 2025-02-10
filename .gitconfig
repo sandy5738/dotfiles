@@ -1,0 +1,37 @@
+[user]
+	name = Sandeep H M
+	email = 49807761+sandy5738@users.noreply.github.com
+	signingkey = 3D20ABA2
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[commit]
+	gpgSign = true
+[tag]
+	gpgSign = true
+# Delta (Git Diff)
+[core]
+    pager = delta
+
+[interactive]
+    diffFilter = delta --color-only --features=interactive
+
+[delta]
+    features = decorations
+	syntax-theme = Dracula
+	side-by-side = true
+	line-numbers = true
+
+[delta "interactive"]
+    keep-plus-minus-markers = false
+
+[delta "decorations"]
+    commit-decoration-style = blue ol
+    commit-style = raw
+    file-style = omit
+    hunk-header-decoration-style = blue box
+    hunk-header-file-style = red
+    hunk-header-line-number-style = "#067a00"
+    hunk-header-style = file line-number syntax
