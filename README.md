@@ -6,6 +6,7 @@
 - [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
 - [ohmyzsh](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df#install-oh-my-zsh)
 - [starship](https://starship.rs/)
+- [git-delta](https://dandavison.github.io/delta/installation.html)
 
 ## plugins
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
